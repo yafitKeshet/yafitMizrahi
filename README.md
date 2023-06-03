@@ -1,2 +1,3 @@
-- 👋 Hi, I’m Yafit Mizrahi
-- I'm a 4nd-year student in computer science, looking for a junior position as a software developer to expand my knowledge and to bring my unique skill set to your company.
+B.Sc. Computer Science graduate, "The Academic College Tel Aviv-Yaffo"
+Looking for a Junior Software Developer position
+Quick to master new technologies and a great self-learner
